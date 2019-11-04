@@ -1,0 +1,47 @@
+body {
+    font-family: 'Cambo', serif;
+    font-size: 16px;
+    line-height: 1;
+    color: white;
+}
+
+html {
+    background-color: #4ca866ff;
+}
+
+header {
+    text-align: center;
+    background-color: #205c31ff;
+    border: 1px solid #205c31ff;
+}
+
+aside {
+    float: right;
+    width: 35%;
+    padding: 1em 1em 0em 1em;
+    line-height: 1.4;
+}
+
+article {
+    float: right;
+    width: 40%;
+    line-height: 1.4;
+}
+
+#glitchHarvester {
+    padding: 2em 1em 0em 0em;
+    width: 300px;
+}
+
+.nav {
+    
+  height: 80%; /* Full-height: remove this if you want "auto" height */
+  width: 13%; /* Set the width of the sidebar */
+  background-color: #a84c4cff;
+    border: 18px solid #5c1717ff;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+    line-height: 2;
+    font-size: 20px;
+    
+}
