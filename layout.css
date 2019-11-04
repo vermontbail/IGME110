@@ -20,12 +20,32 @@ aside {
     width: 35%;
     padding: 1em 1em 0em 1em;
     line-height: 1.4;
+    text-align: center;
 }
 
 article {
     float: right;
     width: 40%;
     line-height: 1.4;
+}
+
+#bigDuck {
+    width: 325px;
+}
+
+#glitchHarvester {
+    padding: 2em 1em 0em 2em;
+    width: 300px;
+}
+
+#tf2logo{
+    width: 250px;
+    padding: 0em 1em 0em 2em;
+}
+
+#titanfallLogo {
+    width: 250px;
+    padding: 0em 1em 0em 2em;
 }
 
 .nav {
